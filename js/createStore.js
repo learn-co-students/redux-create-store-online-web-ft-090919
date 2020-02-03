@@ -7,6 +7,7 @@ function reducer(state = { count: 0 }, action) {
 
     default:
       return state;
+      
   }
 };
 
